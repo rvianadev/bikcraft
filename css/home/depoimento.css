@@ -63,5 +63,7 @@
   .depoimento-conteudo {
     padding: 40px 20px;
     justify-self: center;
+    background: url("../../img/dec/bottom-right-p.svg") no-repeat bottom 20px
+      right 40px;
   }
 }
